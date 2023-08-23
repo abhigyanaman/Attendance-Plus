@@ -1,0 +1,22 @@
+asgiref
+Django
+pytz
+sqlparse
+
+The user details are 
+
+user : abhigyan
+pass : pass@123
+
+user : abhie
+pass : pass@123
+
+user : anilkumar
+pass : pass@123
+
+user : AngelJudeSuarez
+pass : project123
+
+user : admin
+pass : admin@1234
+
